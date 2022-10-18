@@ -1,0 +1,7 @@
+*** uri's de acesso ao tmdb ****
+
+$tmdbUri = 'https://api.themoviedb.org/3/movie/popular'; // uri base para acesso a lista
+$api_key = 'de06b36687693115c9ea4cbf858e4c1a';
+$imagePath = 'https://image.tmdb.org/t/p/original';  // imagem do filme
+$tmdbUriMoviePage = 'https://www.themoviedb.org/movie/'; // pagina do filme no site tmdb  ex: https://www.themoviedb.org/movie/718930
+$tmdbPage="https://www.themoviedb.org/"; // pagina do tmdb
